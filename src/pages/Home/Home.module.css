@@ -1,0 +1,27 @@
+.Container {
+  padding: 20px;
+}
+
+.Title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.MovieList {
+  list-style: none;
+  padding: 0;
+}
+
+.MovieItem {
+  margin-bottom: 10px;
+}
+
+.MovieLink {
+  color: #333;
+  text-decoration: none;
+}
+
+.MovieLink:hover {
+  text-decoration: underline;
+  color: #7c36d8;
+}
